@@ -2,8 +2,11 @@
 <!DOCTYPE html>
 <html>
 <body>
-  test
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
 </body>
+  <body>
+    <h1>About Me</h1>
+    <p>Testing</p>
+    </body>
 </html>
