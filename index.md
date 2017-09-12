@@ -5,7 +5,7 @@
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
 </body>
-<hr color = "yellow" width = "60%">
+<hr>
     <h1>About Me</h1>
     <p>Currently enrolled at Northwest Vista College.
     <ul> <li> 3D Modeling and Rendering II <li> Interactive Storyboarding <li> Game Testing </li></ul>
