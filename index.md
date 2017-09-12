@@ -7,10 +7,12 @@
 </body>
 <hr>
     <h1>About Me</h1>
-    <br>Currently enrolled at Northwest Vista College.</br>
-    <ul> <li> 3D Modeling and Rendering II <li> Interactive Storyboarding <li> Game Testing </li></ul>
+    <p>Currently enrolled at Northwest Vista College.</p>
+    <ul> <li> 3D Modeling and Rendering II <li> Interactive Storyboarding <li> Game Testing </li>
     <hr>
+    <body>
     <p>Some of the personal information is not real, will make them correct in the future. I hope nothing is mispelled since either GitHub does not have a spell check or I do not know how to enable it in the browser.</p>
+        </body>
     <hr>
     <h1>Contact Me</h1>
     <p>Phone: (123) 456-7890</p>
