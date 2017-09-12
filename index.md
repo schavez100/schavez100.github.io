@@ -8,7 +8,7 @@
 <hr color = "yellow" width = "60%">
     <h1>About Me</h1>
     <p>Currently enrolled at Northwest Vista College.</p>
-    <ul> <li> 3D Modeling and Rendering II <li> Interactive Storyboarding <li> Game Testing </ul>
+    <ul> <li> 3D Modeling and Rendering II <li> Interactive Storyboarding <li> Game Testing </li></ul>
     <hr>
     <p>Some of the personal information is not real, will make them correct in the future. I hope nothing is mispelled since either GitHub does not have a spell check or I do not know how to enable it in the browser.</p>
     <hr>
