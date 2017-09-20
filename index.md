@@ -23,4 +23,6 @@
     <h1>Work</h1>
     <p>I'm guessing github related work goes here. That or all work since this will be used as a portfolio.</p>
     
+    <a href="./Game_Critique">Game Rwview</a>
+    
 </html>
