@@ -14,8 +14,11 @@
 <p>test</p>
 
 <h2>Aspects of the game that you think should be tested:</h2>
-*
-*
-*
-*
-*
+
+<ul>
+  <li></li>: <p></p>
+  <li></li>: <p></p>
+  <li></li>: <p></p>
+  <li></li>: <p></p>
+  <li></li>: <p></p>
+</ul>
