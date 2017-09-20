@@ -16,9 +16,9 @@
 <h2>Aspects of the game that you think should be tested:</h2>
 
 <ul>
-  <li>1</li>: <p></p>
-  <li>2</li>: <p></p>
-  <li>3</li>: <p></p>
-  <li>4</li>: <p></p>
-  <li>5</li>: <p></p>
+  <li>1<p></li>: testing</p>
+  <li>2</li>:
+  <li>3</li>:
+  <li>4</li>:
+  <li>5</li>:
 </ul>
