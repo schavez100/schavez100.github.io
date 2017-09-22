@@ -18,8 +18,8 @@
 <dl>
   <dt>Guard detection</dt>
   <dd>- test1</dd>
-  <dt>Multiplayer connection</dt>
-  <dd>- </dd>
+  <dt>Level layout</dt>
+  <dd>- Test how the level layout works with new players. There is not one path you can go. As long as you do the objective you then can escape the level to complete the level. Because of this it took me longer to understand how to play with limited instructions</dd>
   <dt>3</dt>
   <dd>- test3</dd>
 </dl>
