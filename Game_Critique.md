@@ -17,9 +17,9 @@
 
 <dl>
   <dt>Guard detection</dt>
-  <dd>- test1</dd>
+  <dd>- How well a guard will be able to detect a player based on being spotted is dependent on if you're in a close field of view of that guard.</dd>
   <dt>Level layout</dt>
-  <dd>- Test how the level layout works with new players. There is not one path you can go. As long as you do the objective you then can escape the level to complete the level. Because of this it took me longer to understand how to play with limited instructions</dd>
-  <dt>3</dt>
-  <dd>- test3</dd>
+  <dd>- Test how the level layout works with new players. There is not one path you can go. As long as you do the objective you then can escape the level to complete the level. Because of this it took me longer to understand how to play with limited instructions provided by text examples on the floor of the first few levels.</dd>
+  <dt>Multiplayer</dt>
+  <dd>- Although the game can be played in single and multiplayer, it does not add or take away any features from a level. There might be some problems with varrying internet connection. This might make it difficult for players with a bad connection when encountering a guard.</dd>
 </dl>
