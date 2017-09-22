@@ -11,7 +11,7 @@
 <h2><i>Year Released:</i> 2013</h2>
 
 <h2><i>Synopsis:</i></h2>
-<p>Sneak around the map avoiding guards to complete the objective. Use items that are given throughout the level to assist</p>
+<p>Sneak around the map avoiding guards to complete the objective. Use items that are given throughout the level to assist with taking care of the guards.</p>
 
 <h2>Aspects of the game that you think should be tested:</h2>
 
