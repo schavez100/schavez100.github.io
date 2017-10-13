@@ -32,5 +32,5 @@
 <p><h2>Milestones:</h2> </p>
 <p><h2>Budgets:</h2> </p>
 <p><h2>Testing:</h2> </p>
-<p><h3>Unit Testing: </h3></p>
-<p><h3>Integration Testing: </h3></p>
+<p><h4>Unit Testing: </h4></p>
+<p><h4>Integration Testing: </h4></p>
