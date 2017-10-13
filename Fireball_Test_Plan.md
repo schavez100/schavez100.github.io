@@ -10,8 +10,25 @@
 <p><h2>Scope:</h2> This document is intended to provide a test plan to test the Fireball game, which Internation Hobo developed. The test plan will consist of unit, integration, function, performance, and load testing. The testing techniques that will be performed include black box testing. Some test that were omitted in the test plan include: stress, smoke, regression, and complaiance testing. A test plan workflow will be uncluded along with milestones that have been set for the test plan phase.</p>
 <p><h2>Audience: </h2></p>
     <ul>
-        <li>Project team members will perform tasks specified in this document, and provide input and recommendations on this document.<li>
+        <li>Project team members will perform tasks specified in this document, and provide input and recommendations on this document.</li>
         <li>The testing will be black box testing at the user's home.</li>
         <li></li>
     </ul>
-<p><h2>Test Objectives: </h2></p>
+<p><h2>Test Objectives: Objectives to be accomplished by testing.</h2></p>
+    <ul>
+        <li>Ensure the game's performance is at an acceptable playable level.</li>
+        <li></li>
+    </ul>
+<p><h2>References: A list of references used to assist this test plan document</h2></p>
+    <ul>
+        <li>https://jadendreamer.wordpress.com/2007/09/07/specification-requirements-document/</li>
+        <li>https://www.gamasutra.com/view/feature/130127/design_document_play_with_fire.php</li>
+        <li>http://www.softwaretestinghelp.com/how-to-write-test-plan-document-software-testing-training-day3/</li>
+        <li>http://www.nada.kth.se/kurser/kth/2D1363/phase3final.pdf</li>
+        <li>http://www.requirementdriventesting.com/how-to-test-plan/</li>
+    </ul>
+<p><h2>Test Description:</h2> </p>
+<p><h2>Test Team:</h2 ></p>
+<p><h2>Milestones:</h2> </p>
+<p><h2>Budgets:</h2> </p>
+<p><h2>Testing:</h2> </p>
