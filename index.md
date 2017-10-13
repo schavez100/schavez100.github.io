@@ -24,6 +24,6 @@
     <p>I'm guessing github related work goes here. That or all work since this will be used as a portfolio.</p>
     <p><a href="./Game_Critique">Game Critique</a></p>
     <p><a href="./Case_Study_Heroku">Case Study</a></p>
-    <p><a href="./Game_Critique_2">Game Critique</a></p>
+    <p><a href="./Game_Critique_2">Game Critique 2</a></p>
 </body>
 </html>
