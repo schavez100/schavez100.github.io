@@ -8,4 +8,10 @@
         <li>Test Management: Handling the logistics of the test and all the events that come up during execution of a test.</li>
     </ul>
 <p><h2>Scope:</h2> This document is intended to provide a test plan to test the Fireball game, which Internation Hobo developed. The test plan will consist of unit, integration, function, performance, and load testing. The testing techniques that will be performed include black box testing. Some test that were omitted in the test plan include: stress, smoke, regression, and complaiance testing. A test plan workflow will be uncluded along with milestones that have been set for the test plan phase.</p>
-<p><h2>Audience</h2> </p>
+<p><h2>Audience: </h2></p>
+    <ul>
+        <li>Project team members will perform tasks specified in this document, and provide input and recommendations on this document.<li>
+        <li>The testing will be black box testing at the user's home.</li>
+        <li></li>
+    </ul>
+<p><h2>Test Objectives: </h2></p>
