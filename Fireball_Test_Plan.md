@@ -4,6 +4,8 @@
 <p>This Test Plan for the Fireball game supports the following objectives:</p>
     <ul>
         <li>Test Strategy: Guidelines that the test will be based on and descriptions of the process to set up a valid test.</li>
-        <li>Execution Strategy: How the test will be executed and the process to identify and report bugs, and to finx and implement fixes</li>
+        <li>Execution Strategy: How the test will be executed and the process to identify and report bugs, and to fix and implement fixes</li>
         <li>Test Management: Handling the logistics of the test and all the events that come up during execution of a test.</li>
     </ul>
+<p><h2>Scope:</h2> This document is intended to provide a test plan to test the Fireball game, which Internation Hobo developed. The test plan will consist of unit, integration, function, performance, and load testing. The testing techniques that will be performed include black box testing. Some test that were omitted in the test plan include: stress, smoke, regression, and complaiance testing. A test plan workflow will be uncluded along with milestones that have been set for the test plan phase.</p>
+<p><h2>Audience</h2> </p>
