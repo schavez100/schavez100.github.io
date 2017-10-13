@@ -25,5 +25,6 @@
     <p><a href="./Game_Critique">Game Critique</a></p>
     <p><a href="./Case_Study_Heroku">Case Study</a></p>
     <p><a href="./Game_Critique_2">Game Critique 2</a></p>
-</body>
+    <p><a href="./Fireball_Test_Plan">Fireball Test Plan</a></p>
+    </body>
 </html>
