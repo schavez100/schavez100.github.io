@@ -29,7 +29,7 @@
     </ul>
 <p><h2>Test Description:</h2> </p>
 <p><h2>Test Team:</h2 ></p>
-<p><h2>Milestones:</h2> </p>
+<p><h2>Milestones:</h2> Dates by which parts of the test plan will be completed all of which leading up to the final due date which the test plan must be completed by.</p>
 <p><h2>Budgets:</h2> </p>
 <p><h2>Testing:</h2> In this section, we will list the target test items. These are the items that should be tested. *MAKE/ADD TEST CASES HERE I GUESS.* We will provide a detailed test plant for the major test items. We have categorized the test items by *motivation*</p>
 <p><h4>Unit Testing: </h4></p>
