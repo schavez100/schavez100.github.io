@@ -32,5 +32,21 @@
 <p><h2>Milestones:</h2> Dates by which parts of the test plan will be completed all of which leading up to the final due date which the test plan must be completed by.</p>
 <p><h2>Budgets:</h2> </p>
 <p><h2>Testing:</h2> In this section, we will list the target test items. These are the items that should be tested. *MAKE/ADD TEST CASES HERE I GUESS.* We will provide a detailed test plant for the major test items. We have categorized the test items by *motivation*</p>
-<p><h4>Unit Testing: </h4></p>
+<p><h4>Unit Testing: </h4> Unity testing consists of testing all the different units of the system, in isolation. We must test each class in isolation, and each method in idolation using white box and black box testing</p>
+    <ul>
+        <li>Function Move</li>
+        <li>Function Slam</li>
+        <li>Function Jump</li>
+    </ul>
 <p><h4>Integration Testing: </h4></p>
+    <ul>
+        <li>Game Start Window</li>
+        <li>Main Window</li>
+        <li>Game Over Window</li>
+    </ul>
+<p><h4>Function Testing: </h4></p>
+    <ul>
+        <li>Start Game</li>
+        <li>Pick Target</li>
+        <li>Gain Temperature</li>
+    </ul>
