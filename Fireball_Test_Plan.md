@@ -10,14 +10,17 @@
 <p><h3>Scope:</h3> This document is intended to provide a test plan to test the Fireball game, which Internation Hobo developed. The test plan will consist of unit, integration, function, performance, and load testing. The testing techniques that will be performed include black box testing. Some test that were omitted in the test plan include: stress, smoke, regression, and complaiance testing. A test plan workflow will be uncluded along with milestones that have been set for the test plan phase.</p>
 <p><h3>Document Overview:</h3> This document will go over the project in detail, user characteristics, general constrains, and then requirements entailed.</p>
 <p><h2>Project Eplained:</h2></p>
+<p><h4>Game Engine - </h4> The game engine should poll the blocks of the world at the fastest rate feasible without causing slowdown – blocks near to the player should be polled in as close to real time as possible, whilst blocks far from the player are lower priority. But within an approximately ten second cycle, all blocks in the game world should be polled at least once to determine if they start any fires nearby. The game front end operates using the main game engine. The player moves around between objects (which are kept well-spaced), and when near an object, text appears indicating what will happen if they burn that object. This saves developing a separate front end</p>
+<p><h4>Menu - </h4> The menu holds the audio tracks and reset field options which resets the field.</p>
+<p><h4>Audio - </h4> Displays the current track, the player can push left and right to change the track. Displayed on screen when the game is paused.</p>
+<p><h4>Time - </h4> Keeps track of elapsed time, burn time, and ignition times. Also gives the player a time limit for objectives to be completed.</p>
 <p><h3>Project Functions:</h3></p>
-<p><h3>User Characteristics:</h3></p>
-<p><h3>General Restraints:</h3></p>
+<p><h3>User Characteristics:</h3> The users of this game will have to have a Playstation 2 console. Although given current technologies, it can be emulated on serveral devices, most notibaly on pc.</p>
 <p><h2>Requirements:</h2></p>
-<p><h3>Scope:</h3>
-<p><h3>Scope:</h3>
-<p><h3>Scope:</h3>
-<p><h3>Scope:</h3>
+<p><h3>Game Engine:</h3>
+<p><h3>Menu:</h3>
+<p><h3>Audio:</h3>
+<p><h3>Time:</h3>
 <p><h3>Scope:</h3>
 <p><h3>Scope:</h3>
 <p><h3>Scope:</h3>
