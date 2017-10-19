@@ -18,9 +18,10 @@
 <p><h3>User Characteristics :</h3> The users of this game will have to have a PlayStation 2 console. Although given current technologies, it can be emulated on several devices, most notably on pc.</p>
 <p><h2>Requirements :</h2></p>
 <p><h3>Game Engine :</h3></p>
-<ul>
-<li><p>testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest</p></li>
-</ul>
+    <ul>
+        <li><h5>REQ 1:</h5><p>testtsttesttesttesttest</p></li>
+        <li><h5>Rationale:</h5><p>testtsttesttesttesttest</p></li>
+    </ul>
 <p><h3>Menu Driver Requirements:</h3></p>
 <p><h3>Audio Driver Requirements :</h3></p>
 <p><h3>Timer Requirements :</h3></p>
