@@ -23,7 +23,25 @@
         <li><h5>Rationale:</h5><p>testtsttesttesttesttest</p></li>
     </ul>
 <p><h3>Menu Driver Requirements:</h3></p>
+    <ul>
+        <li><h5>REQ 1:</h5><p>testtsttesttesttesttest</p></li>
+        <li><h5>Rationale:</h5><p>testtsttesttesttesttest</p></li>
+    </ul>
 <p><h3>Audio Driver Requirements :</h3></p>
+    <ul>
+        <li><h5>REQ 1:</h5><p>Load all of the game music</p></li>
+        <li><h5>Rationale:</h5><p>Game music will be ready to go before the user starts playing the game.</p></li>
+        <li><h5>REQ 2:</h5><p>Play music</p></li>
+        <li><h5>Rationale:</h5><p>Will always play most current music selection</p></li>
+        <li><h5>REQ 3:</h5><p>Stop music</p></li>
+        <li><h5>Rationale:</h5><p>Stops whatever music is currently playing and does not start other tracks.</p></li>
+        <li><h5>REQ 4:</h5><p>Change track</p></li>
+        <li><h5>Rationale:</h5><p>Changes the current track</p></li>
+    </ul>
 <p><h3>Timer Requirements :</h3></p>
+    <ul>
+        <li><h5>REQ 1:</h5><p>Start the timer when the game is started</p></li>
+        <li><h5>Rationale:</h5><p>Timer should always be running</p></li>
+    </ul>
 <p><h3>Scope :</h3></p>
 <p><h2>Assumptions :</h2></p> 
