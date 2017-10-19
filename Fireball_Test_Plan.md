@@ -11,7 +11,8 @@
 <p><h3>Document Overview :</h3> This document will go over the project in detail, user characteristics, general constrains, and then requirements entailed.</p>
 <p><h2>Project Eplained :</h2></p>
 <p><h4>Game Engine - </h4> The game engine should poll the blocks of the world at the fastest rate feasible without causing slowdown – blocks near to the player should be polled in as close to real time as possible, whilst blocks far from the player are lower priority. However, within an approximately ten second cycle, all blocks in the game world should be polled at least once to determine if they start any fires nearby. The game front end operates using the main game engine. The player moves around between objects (which are kept well spaced), and when near an object, text appears indicating what will happen if they burn that object. This saves developing a separate front end</p>
-<p><h4>Menu Driver- </h4> The menu holds the audio tracks and reset field options which resets the field.</p>
+<p><h4>Play Driver -</h4> Play and pause the game so the user can leave the game and come back at a later time.</p>
+<p><h4>Menu Driver - </h4> The menu holds the audio tracks and reset field options which resets the field.</p>
 <p><h4>Audio Driver - </h4> Displays the current track, the player can push left and right to change the track. Displayed on screen when the game is paused.</p>
 <p><h4>Timer - </h4> Keeps track of elapsed time, burn time, and ignition times. Also gives the player a time limit for objectives to be completed.</p>
 <p><h3>Project Functions :</h3></p>
@@ -19,13 +20,22 @@
 <p><h2>Requirements :</h2></p>
 <p><h3>Game Engine :</h3></p>
     <ul>
-        <li><h5>REQ 1:</h5><p>testtsttesttesttesttest</p></li>
-        <li><h5>Rationale:</h5><p>testtsttesttesttesttest</p></li>
+        <li><h5>REQ 1:</h5><p>Must be the first thing that starts when the game is turned on.</p></li>
+        <li><h5>Rationale:</h5><p>Must be the first thing to start.</p></li>
+    </ul>
+<p><h3>Play Driver Requirements :</h3></p>
+    <ul>
+        <li><h5>REQ 1:</h5><p>Pause the game.</p></li>
+        <li><h5>Rationale:</h5><p>Prevents things from happening while paused.</p></li>
+        <li><h5>REQ 2:</h5><p>Resume the game if it has been paused.</p></li>
+        <li><h5>Rationale:</h5><p>The game can be unpaused and resumed where it was paused at.</p></li>
     </ul>
 <p><h3>Menu Driver Requirements:</h3></p>
     <ul>
-        <li><h5>REQ 1:</h5><p>testtsttesttesttesttest</p></li>
-        <li><h5>Rationale:</h5><p>testtsttesttesttesttest</p></li>
+        <li><h5>REQ 1:</h5><p>Load the appropriate menu when asked.</p></li>
+        <li><h5>Rationale:</h5><p>This way the game will always show the correct menu at the right time.</p></li>
+        <li><h5>REQ 2:</h5><p>Keep track of where the seletor is.</p></li>
+        <li><h5>Rationale:</h5><p>This way the game knos what option is being picked from which menu.</p></li>
     </ul>
 <p><h3>Audio Driver Requirements :</h3></p>
     <ul>
