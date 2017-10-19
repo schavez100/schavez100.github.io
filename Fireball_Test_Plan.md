@@ -53,5 +53,4 @@
         <li><h5>REQ 1:</h5><p>Start the timer when the game is started</p></li>
         <li><h5>Rationale:</h5><p>Timer should always be running</p></li>
     </ul>
-<p><h3>Scope :</h3></p>
-<p><h2>Assumptions :</h2></p>
+    </p>
