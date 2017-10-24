@@ -3,11 +3,11 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * #TC001
 * Test Case Name:
-  * #Number
+  * #Main Menu
 * Component: 
-  * Description
+  * Test that all functions of the main menu(very first menu before the level is loaded) function correctly.
 * Test Case Designer:
   * Stephen Chavez
 * Creation Date:
@@ -15,13 +15,13 @@
 * Modified By:
   * Stephen Chavez
 * Modified Date:
-  * Date
+  * October 24, 2017
 * Requirements Covered:
   * Description
 * Test Description/Purpose:
   * Description
 * Pre-Test Conditions:
-  * Description
+  * Make sure that the game can be launched or can run on current computer.
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
@@ -64,7 +64,7 @@
 * Modified By:
   * Stephen Chavez
 * Modified Date:
-  * Date
+  * October 24, 2017
 * Requirements Covered:
   * Description
 * Test Description/Purpose:
@@ -113,7 +113,7 @@
 * Modified By:
   * Stephen Chavez
 * Modified Date:
-  * Date
+  * October 24, 2017
 * Requirements Covered:
   * Description
 * Test Description/Purpose:
