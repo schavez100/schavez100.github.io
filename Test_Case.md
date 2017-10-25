@@ -7,7 +7,7 @@
 * Test Case Name:
   * #Main Menu
 * Component: 
-  * Test that all functions of the main menu(very first menu before the level is loaded) function correctly.
+  * Test that all functions of the main menu(very first menu before the level is loaded) are linked correctly.
 * Test Case Designer:
   * Stephen Chavez
 * Creation Date:
@@ -19,7 +19,7 @@
 * Requirements Covered:
   * Description
 * Test Description/Purpose:
-  * Insurring that all menu buttons lead to correct following menu and hitting a back to main menu options brings player back to main menu selection screen.
+  * Ensuring that all menu buttons lead to correct following menu and hitting a back to main menu options brings player back to main menu selection screen.
 * Pre-Test Conditions:
   * Make sure that the game can be launched or can run on current computer.
 ## Test Steps: 
