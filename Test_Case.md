@@ -17,7 +17,7 @@
 * Modified Date:
   * October 24, 2017
 * Requirements Covered:
-  * Description
+  * Linking of all menus.
 * Test Description/Purpose:
   * Ensuring that all menu buttons lead to correct following menu and hitting a back to main menu options brings player back to main menu selection screen.
 * Pre-Test Conditions:
@@ -38,12 +38,12 @@
 
 ## Overall Test Status:
 
-
+All menus were linked however clicking "Exit" brings another menu asking the player if they want to exit the game or not.
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
+| 1 | October 24, 2017| Stephen Chavez| √|			
 | 2 | | | |			
 | 3 | | | |			
 
@@ -66,11 +66,11 @@
 * Modified Date:
   * October 24, 2017
 * Requirements Covered:
-  * Description
+  * Controls work as intended.
 * Test Description/Purpose:
-  * Description
+  * Insurring that all the controls listed on the controls screen actually do what is listed.
 * Pre-Test Conditions:
-  * Description
+  * Make sure a game controller matching those that are compatible with the game are used.
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
@@ -82,7 +82,7 @@
 | 6 | Left mouse button pressed| Fires beam| √|			
 | 7 | Right mouse button pressed| Releases effect on beamable object| √|			
 | 8 | Middle mouse button pressed| Scroll through powers| |			
-| 9 | Number 1,2,3,4, and 5 pressed| Scrolls through powers and 5 releases| ?|			
+| 9 | Number 1,2,3,4, and 5 pressed| Scrolls through powers and 5 releases| |			
 | 10 | | | |			
 
 ## Overall Test Status:
@@ -92,7 +92,7 @@
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
+| 1 | October 24, 2017| Stephen Chavez| |			
 | 2 | | | |			
 | 3 | | | |			
 
@@ -117,9 +117,9 @@
 * Requirements Covered:
   * Description
 * Test Description/Purpose:
-  * Insurring that all the controls listed on the controls screen actually do what is listed.
+  * 
 * Pre-Test Conditions:
-  * Make sure a game controller matching those that are compatible with the game are used.
+  * 
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
