@@ -87,7 +87,7 @@ All menus were linked however clicking "Exit" brings another menu asking the pla
 
 ## Overall Test Status:
 
-
+Middle mouse button pressed does not scroll through powers. Only the number keys on the main part of the keyboard scroll through the powers while the num pad does not do anything.
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
