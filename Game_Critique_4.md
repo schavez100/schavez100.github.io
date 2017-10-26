@@ -1,4 +1,6 @@
 # Information
+## Game Title
+Plague Inc.
 ## Game Type
 Real-time strategy, Simulation
 ## Platform
