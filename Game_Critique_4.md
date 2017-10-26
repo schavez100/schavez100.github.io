@@ -21,4 +21,6 @@ Single-player
 ### Controls
 Point and click depending on that platform you are playing on but it is mostly point and click.
 # Bugs
+I could not find any bugs unless there were bugs with the graphs that indicate spread and cure progress.
 # Final Thoughts
+The game is very insightful to how diseases spread and to watch as everyone dies because of the evolving plague. The game plays well however, I do not see it something that I will play for several hours at a time. It would be nice to see the developers add more plagues that are official. The option to play custom plagues made by the community makes it interesting to see what others could do.
