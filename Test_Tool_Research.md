@@ -1,28 +1,18 @@
 # Information
-## Game Title
+## Test Tool Name
 
-## Game Type
+## Company
 
 ## Platform
 
-## Game Rating
+## Feature 1
 
-## Publisher
+## Feature 2
 
-## Developer
+## Feature 3
 
-## Publishing Date
+## Does this tool do any test case storage?
 
-# Synopsis
+## Does this tool allow tester to link requirements or defects to test cases?
 
-# Game Play Summary
-
-## Playability
-
-### Single/Multiplayer
-
-### Controls
-
-# Bugs
-
-# Final Thoughts
+## If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
