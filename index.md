@@ -28,5 +28,6 @@
     <p><a href="./Fireball_Test_Plan">Fireball Test Plan</a></p>
     <p><a href="./Test_Case">Test Case</a></p>
     <p><a href="./Game_Critique_4">Game Critique 4</a></p>
+    <p><a href="./Game_Critique_5">Game Critique 5</a></p>
     </body>
 </html>
