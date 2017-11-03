@@ -38,7 +38,7 @@
 
 ## Overall Test Status:
 
-All menus were linked however clicking "Exit" brings another menu asking the player if they want to exit the game or not.
+All menus were linked however clicking "Exit" brings another menu asking the player if they want to exit the game or not. This was something that was not perdicted but does make sense. It did work however, it was not something that was planned
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
