@@ -1,0 +1,574 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<WebScript v='30205'>
+	<Variables>
+	</Variables>
+	<nextScriptId>56</nextScriptId>
+	<Object>null</Object>
+	<dataSources>
+	</dataSources>
+	<Script v='3'>
+		<ver>14</ver>
+		<id>1</id>
+		<Summary v='3'>
+			<played>6</played>
+			<succeeded>6</succeeded>
+			<maxResponseTime>50</maxResponseTime>
+			<averageResponseTime>22</averageResponseTime>
+		</Summary>
+		<childCount>1</childCount>
+		<ChildItems>
+			<SuiteItem v='1'>
+				<ver>14</ver>
+				<id>4</id>
+				<Summary v='3'>
+					<played>6</played>
+					<succeeded>6</succeeded>
+					<maxResponseTime>50</maxResponseTime>
+					<averageResponseTime>22</averageResponseTime>
+				</Summary>
+				<childCount>1</childCount>
+				<ChildItems>
+					<TestItem v='3'>
+						<ver>14</ver>
+						<id>3</id>
+						<Summary v='3'>
+							<played>6</played>
+							<succeeded>6</succeeded>
+							<maxResponseTime>50</maxResponseTime>
+							<averageResponseTime>22</averageResponseTime>
+						</Summary>
+						<childCount>1</childCount>
+						<ChildItems>
+							<Step v='4'>
+								<ver>14</ver>
+								<id>2</id>
+								<Summary v='3'>
+									<played>6</played>
+									<succeeded>6</succeeded>
+									<maxResponseTime>50</maxResponseTime>
+									<averageResponseTime>22</averageResponseTime>
+								</Summary>
+								<childCount>3</childCount>
+								<ChildItems>
+									<Request v='10'>
+										<ver>14</ver>
+										<id>7</id>
+										<Summary v='3'>
+											<played>2</played>
+											<succeeded>2</succeeded>
+											<maxResponseTime>50</maxResponseTime>
+											<averageResponseTime>34</averageResponseTime>
+										</Summary>
+										<childCount>1</childCount>
+										<ChildItems>
+											<ResponsesItem v='4'>
+												<ver>14</ver>
+												<id>9</id>
+												<Summary v='3'>
+													<played>2</played>
+													<succeeded>2</succeeded>
+													<maxResponseTime>50</maxResponseTime>
+													<averageResponseTime>34</averageResponseTime>
+												</Summary>
+												<childCount>2</childCount>
+												<ChildItems>
+													<Response v='3'>
+														<ver>14</ver>
+														<id>8</id>
+														<Summary v='3'>
+															<played>1</played>
+															<succeeded>1</succeeded>
+															<maxResponseTime>17</maxResponseTime>
+															<averageResponseTime>17</averageResponseTime>
+														</Summary>
+														<timeMs>17</timeMs>
+														<size>917</size>
+														<encodedContent>false</encodedContent>
+														<content>&lt;html&gt;
+  &lt;head&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;surfnstuff.css&quot;/&gt;
+  &lt;body&gt;
+    &lt;h2&gt;Badboy&apos;s Surf&apos;n Stuff Shop - Catalog&lt;/h2&gt;
+    &lt;p style=&quot;margin-top: 10px;&quot;&gt;Choose from our great line of cool net gear:&lt;/p&gt;
+    &lt;p style=&quot;margin-top: 10px; text-align: center&quot;&gt;
+      &lt;table border=&quot;1&quot; cellspacing=&quot;0&quot; cellpadding=&quot;3&quot;&gt;
+        &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&quot;ssbuy.html?item=0&quot; onclick=&quot;window.parent.surfnClick(&apos;item0&apos;)&quot;&gt;Surf&apos;n Net&lt;/a&gt; - $10.95&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&quot;ssbuy.html?item=1&quot; onclick=&quot;window.parent.surfnClick(&apos;item1&apos;)&quot;  &gt;Surf&apos;n Flippers&lt;/a&gt; - $13.50&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&quot;ssbuy.html?item=2&quot; onclick=&quot;window.parent.surfnClick(&apos;item2&apos;)&quot;&gt;Surf&apos;n Headphones&lt;/a&gt; - $6.95&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&quot;ssbuy.html?item=3&quot; onclick=&quot;window.parent.surfnClick(&apos;item3&apos;)&quot;&gt;Surf&apos;n Towel&lt;/a&gt; - $12.00&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+</content>
+														<totalSize>917</totalSize>
+														<timeStamp>2017-11-19 02:17:54</timeStamp>
+														<logContent/>
+													</Response>
+													<Response v='3'>
+														<ver>14</ver>
+														<id>53</id>
+														<Summary v='3'>
+															<played>1</played>
+															<succeeded>1</succeeded>
+															<maxResponseTime>50</maxResponseTime>
+															<averageResponseTime>50</averageResponseTime>
+														</Summary>
+														<timeMs>50</timeMs>
+														<size>917</size>
+														<encodedContent>false</encodedContent>
+														<content>&lt;html&gt;
+  &lt;head&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;surfnstuff.css&quot;/&gt;
+  &lt;body&gt;
+    &lt;h2&gt;Badboy&apos;s Surf&apos;n Stuff Shop - Catalog&lt;/h2&gt;
+    &lt;p style=&quot;margin-top: 10px;&quot;&gt;Choose from our great line of cool net gear:&lt;/p&gt;
+    &lt;p style=&quot;margin-top: 10px; text-align: center&quot;&gt;
+      &lt;table border=&quot;1&quot; cellspacing=&quot;0&quot; cellpadding=&quot;3&quot;&gt;
+        &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&quot;ssbuy.html?item=0&quot; onclick=&quot;window.parent.surfnClick(&apos;item0&apos;)&quot;&gt;Surf&apos;n Net&lt;/a&gt; - $10.95&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&quot;ssbuy.html?item=1&quot; onclick=&quot;window.parent.surfnClick(&apos;item1&apos;)&quot;  &gt;Surf&apos;n Flippers&lt;/a&gt; - $13.50&lt;/td&gt;&lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&quot;ssbuy.html?item=2&quot; onclick=&quot;window.parent.surfnClick(&apos;item2&apos;)&quot;&gt;Surf&apos;n Headphones&lt;/a&gt; - $6.95&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&quot;ssbuy.html?item=3&quot; onclick=&quot;window.parent.surfnClick(&apos;item3&apos;)&quot;&gt;Surf&apos;n Towel&lt;/a&gt; - $12.00&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/table&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+</content>
+														<totalSize>917</totalSize>
+														<timeStamp>2017-11-19 02:19:15</timeStamp>
+														<logContent/>
+													</Response>
+												</ChildItems>
+												<Summary v='3'>
+													<maxResponseTime>0</maxResponseTime>
+													<averageResponseTime>0</averageResponseTime>
+												</Summary>
+											</ResponsesItem>
+										</ChildItems>
+										<timeoutEnabled>false</timeoutEnabled>
+										<Object>null</Object>
+										<targetWindow/>
+										<itemName/>
+										<documentation/>
+										<waitForPageToLoad>false</waitForPageToLoad>
+										<sourceLocation/>
+										<recordResponses>true</recordResponses>
+										<quiescenceTimeMs>500</quiescenceTimeMs>
+										<disabled>false</disabled>
+										<ignoreErrors>false</ignoreErrors>
+										<errorFilter/>
+										<Object>null</Object>
+										<host/>
+										<path>C:/Users/Infinity/Desktop/Badboy/html/tutorial/sscatalog.html</path>
+										<protocol>file</protocol>
+										<resource/>
+										<targetFrame>testsite</targetFrame>
+										<isActive>1</isActive>
+										<label/>
+										<headers>Referer: file:///C:/Users/Infinity/Desktop/Badboy/html/tutorial/surfnstuff.html
+</headers>
+										<multipartBoundary/>
+										<Object>null</Object>
+										<lenientSubrequestCount>false</lenientSubrequestCount>
+										<formCharset>windows-1252</formCharset>
+										<method>1</method>
+										<waitForSubRequests>false</waitForSubRequests>
+									</Request>
+									<Request v='10'>
+										<ver>14</ver>
+										<id>18</id>
+										<Summary v='3'>
+											<played>2</played>
+											<succeeded>2</succeeded>
+											<maxResponseTime>21</maxResponseTime>
+											<averageResponseTime>17</averageResponseTime>
+										</Summary>
+										<childCount>2</childCount>
+										<ChildItems>
+											<ResponsesItem v='4'>
+												<ver>14</ver>
+												<id>21</id>
+												<Summary v='3'>
+													<played>2</played>
+													<succeeded>2</succeeded>
+													<maxResponseTime>21</maxResponseTime>
+													<averageResponseTime>17</averageResponseTime>
+												</Summary>
+												<childCount>2</childCount>
+												<ChildItems>
+													<Response v='3'>
+														<ver>14</ver>
+														<id>20</id>
+														<Summary v='3'>
+															<played>1</played>
+															<succeeded>1</succeeded>
+															<maxResponseTime>21</maxResponseTime>
+															<averageResponseTime>21</averageResponseTime>
+														</Summary>
+														<timeMs>21</timeMs>
+														<size>1675</size>
+														<encodedContent>false</encodedContent>
+														<content>&lt;html&gt;
+  &lt;head&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;surfnstuff.css&quot;/&gt;
+    &lt;script language=&quot;JavaScript&quot; src=&quot;ss.js&quot;&gt;&lt;/script&gt;
+    &lt;script language=&quot;JavaScript&quot;&gt;
+      function setItem() {
+        var u = document.location.href.toString().split(&apos;?&apos;);
+        if(u.length &amp;&amp; (u.length &gt; 1)) {
+          var param = u[1].split(&apos;=&apos;);
+          var item = parseInt(param[1]);
+          document.getElementById(&apos;itemName&apos;).innerHTML=items[item].name;
+          document.getElementById(&apos;itemPrice&apos;).innerHTML=items[item].price;
+          setCookie(&apos;item&apos;,item);
+        }
+        else {
+          item = getCookie(&apos;item&apos;);
+          document.getElementById(&apos;itemName&apos;).innerHTML=items[item].name;
+          document.getElementById(&apos;itemPrice&apos;).innerHTML=items[item].price;
+        }
+      }
+    &lt;/script&gt;
+  &lt;/head&gt;
+  &lt;body onload=&quot;setItem();&quot;&gt;
+    &lt;h2&gt;Badboy&apos;s Surf&apos;n Stuff Shop - Checkout&lt;/h2&gt;
+    &lt;p&gt;What a great choice!&lt;/p&gt;
+    &lt;p style=&quot;text-align: center; padding: 0px&quot;&gt;
+    &lt;form name=&quot;buyForm&quot; action=&quot;ssthankyou.html&quot;&gt;
+        &lt;input type=&quot;hidden&quot; name=&quot;item&quot; value=&quot;&quot;/&gt;
+        &lt;table border=&quot;0&quot;&gt;
+          &lt;tr&gt;&lt;td&gt;Item:&lt;/td&gt;&lt;td id=&quot;itemName&quot;&gt;Surf&apos;n Flippers&lt;/td&gt;&lt;/tr&gt;
+          &lt;tr&gt;&lt;td&gt;Total:&lt;/td&gt;&lt;td id=&quot;itemPrice&quot;&gt;12.00&lt;/td&gt;&lt;/tr&gt;
+          &lt;tr&gt;&lt;td &gt;Gift Wrapped? &lt;/td&gt;&lt;td&gt;&lt;input style=&quot;position: relative; top: 0px; height: 8px; margin: 0px; padding: 0px&quot; type=&quot;checkbox&quot; name=&quot;giftwrap&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;
+          &lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td width=&quot;100px&quot; align=&quot;right&quot;&gt;&lt;input type=&quot;Submit&quot; onclick=&quot;window.parent.surfnClick(&apos;purchase&apos;);&quot; value=&quot;Purchase&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+      &lt;/form&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+</content>
+														<totalSize>1675</totalSize>
+														<timeStamp>2017-11-19 02:18:35</timeStamp>
+														<logContent/>
+													</Response>
+													<Response v='3'>
+														<ver>14</ver>
+														<id>54</id>
+														<Summary v='3'>
+															<played>1</played>
+															<succeeded>1</succeeded>
+															<maxResponseTime>13</maxResponseTime>
+															<averageResponseTime>13</averageResponseTime>
+														</Summary>
+														<timeMs>13</timeMs>
+														<size>1675</size>
+														<encodedContent>false</encodedContent>
+														<content>&lt;html&gt;
+  &lt;head&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;surfnstuff.css&quot;/&gt;
+    &lt;script language=&quot;JavaScript&quot; src=&quot;ss.js&quot;&gt;&lt;/script&gt;
+    &lt;script language=&quot;JavaScript&quot;&gt;
+      function setItem() {
+        var u = document.location.href.toString().split(&apos;?&apos;);
+        if(u.length &amp;&amp; (u.length &gt; 1)) {
+          var param = u[1].split(&apos;=&apos;);
+          var item = parseInt(param[1]);
+          document.getElementById(&apos;itemName&apos;).innerHTML=items[item].name;
+          document.getElementById(&apos;itemPrice&apos;).innerHTML=items[item].price;
+          setCookie(&apos;item&apos;,item);
+        }
+        else {
+          item = getCookie(&apos;item&apos;);
+          document.getElementById(&apos;itemName&apos;).innerHTML=items[item].name;
+          document.getElementById(&apos;itemPrice&apos;).innerHTML=items[item].price;
+        }
+      }
+    &lt;/script&gt;
+  &lt;/head&gt;
+  &lt;body onload=&quot;setItem();&quot;&gt;
+    &lt;h2&gt;Badboy&apos;s Surf&apos;n Stuff Shop - Checkout&lt;/h2&gt;
+    &lt;p&gt;What a great choice!&lt;/p&gt;
+    &lt;p style=&quot;text-align: center; padding: 0px&quot;&gt;
+    &lt;form name=&quot;buyForm&quot; action=&quot;ssthankyou.html&quot;&gt;
+        &lt;input type=&quot;hidden&quot; name=&quot;item&quot; value=&quot;&quot;/&gt;
+        &lt;table border=&quot;0&quot;&gt;
+          &lt;tr&gt;&lt;td&gt;Item:&lt;/td&gt;&lt;td id=&quot;itemName&quot;&gt;Surf&apos;n Flippers&lt;/td&gt;&lt;/tr&gt;
+          &lt;tr&gt;&lt;td&gt;Total:&lt;/td&gt;&lt;td id=&quot;itemPrice&quot;&gt;12.00&lt;/td&gt;&lt;/tr&gt;
+          &lt;tr&gt;&lt;td &gt;Gift Wrapped? &lt;/td&gt;&lt;td&gt;&lt;input style=&quot;position: relative; top: 0px; height: 8px; margin: 0px; padding: 0px&quot; type=&quot;checkbox&quot; name=&quot;giftwrap&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;
+          &lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td width=&quot;100px&quot; align=&quot;right&quot;&gt;&lt;input type=&quot;Submit&quot; onclick=&quot;window.parent.surfnClick(&apos;purchase&apos;);&quot; value=&quot;Purchase&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+      &lt;/form&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+</content>
+														<totalSize>1675</totalSize>
+														<timeStamp>2017-11-19 02:19:16</timeStamp>
+														<logContent/>
+													</Response>
+												</ChildItems>
+												<Summary v='3'>
+													<maxResponseTime>0</maxResponseTime>
+													<averageResponseTime>0</averageResponseTime>
+												</Summary>
+											</ResponsesItem>
+											<Parameter v='4'>
+												<ver>14</ver>
+												<id>19</id>
+												<name>item</name>
+												<value>1</value>
+												<sendEquals>true</sendEquals>
+												<method>1</method>
+											</Parameter>
+										</ChildItems>
+										<timeoutEnabled>false</timeoutEnabled>
+										<Object>null</Object>
+										<targetWindow/>
+										<itemName/>
+										<documentation/>
+										<waitForPageToLoad>false</waitForPageToLoad>
+										<sourceLocation/>
+										<recordResponses>true</recordResponses>
+										<quiescenceTimeMs>500</quiescenceTimeMs>
+										<disabled>false</disabled>
+										<ignoreErrors>false</ignoreErrors>
+										<errorFilter/>
+										<Object>null</Object>
+										<host/>
+										<path>C:/Users/Infinity/Desktop/Badboy/html/tutorial/ssbuy.html?item=1</path>
+										<protocol>file</protocol>
+										<resource/>
+										<targetFrame>testsite</targetFrame>
+										<isActive>1</isActive>
+										<label/>
+										<headers>Referer: file:///C:/Users/Infinity/Desktop/Badboy/html/tutorial/sscatalog.html
+</headers>
+										<multipartBoundary/>
+										<Object>null</Object>
+										<lenientSubrequestCount>false</lenientSubrequestCount>
+										<formCharset>windows-1252</formCharset>
+										<method>1</method>
+										<waitForSubRequests>false</waitForSubRequests>
+									</Request>
+									<Request v='10'>
+										<ver>14</ver>
+										<id>25</id>
+										<Summary v='3'>
+											<played>2</played>
+											<succeeded>2</succeeded>
+											<maxResponseTime>19</maxResponseTime>
+											<averageResponseTime>16</averageResponseTime>
+										</Summary>
+										<childCount>2</childCount>
+										<ChildItems>
+											<ResponsesItem v='4'>
+												<ver>14</ver>
+												<id>28</id>
+												<Summary v='3'>
+													<played>2</played>
+													<succeeded>2</succeeded>
+													<maxResponseTime>19</maxResponseTime>
+													<averageResponseTime>16</averageResponseTime>
+												</Summary>
+												<childCount>2</childCount>
+												<ChildItems>
+													<Response v='3'>
+														<ver>14</ver>
+														<id>27</id>
+														<Summary v='3'>
+															<played>1</played>
+															<succeeded>1</succeeded>
+															<maxResponseTime>19</maxResponseTime>
+															<averageResponseTime>19</averageResponseTime>
+														</Summary>
+														<timeMs>19</timeMs>
+														<size>791</size>
+														<encodedContent>false</encodedContent>
+														<content>&lt;html&gt;
+  &lt;head&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;surfnstuff.css&quot;/&gt;
+    &lt;script language=&quot;JavaScript&quot; src=&quot;ss.js&quot;&gt;&lt;/script&gt;
+    &lt;script language=&quot;JavaScript&quot;&gt;
+      function setItem() {
+        var itemStr = getCookie(&apos;item&apos;);
+        if(itemStr != null) {
+          var item = parseInt(itemStr);
+          document.getElementById(&apos;itemName&apos;).innerHTML=items[item].name;
+        }
+      }
+    &lt;/script&gt;
+  &lt;/head&gt;
+  &lt;body onload=&quot;setItem();&quot;&gt;
+    &lt;h2&gt;Badboy&apos;s Surf&apos;n Stuff Shop - Thankyou!&lt;/h2&gt;
+    &lt;br/&gt;
+    &lt;p&gt;Thanks for buying from Badboy&apos;s Surf&apos;n Stuff!&lt;/p&gt;
+    &lt;br/&gt;
+    &lt;p&gt;Enjoy your &lt;span id=&quot;itemName&quot;&gt;&amp;nbsp;&lt;/span&gt;!&lt;/p&gt;
+    &lt;br/&gt;
+    &lt;a style=&quot;margin-left: 80px;&quot; href=&quot;surfnstuff.html&quot;&gt;return to Surf&apos;n Stuff home page&lt;/a&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+</content>
+														<totalSize>791</totalSize>
+														<timeStamp>2017-11-19 02:18:44</timeStamp>
+														<logContent/>
+													</Response>
+													<Response v='3'>
+														<ver>14</ver>
+														<id>55</id>
+														<Summary v='3'>
+															<played>1</played>
+															<succeeded>1</succeeded>
+															<maxResponseTime>12</maxResponseTime>
+															<averageResponseTime>12</averageResponseTime>
+														</Summary>
+														<timeMs>12</timeMs>
+														<size>791</size>
+														<encodedContent>false</encodedContent>
+														<content>&lt;html&gt;
+  &lt;head&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;surfnstuff.css&quot;/&gt;
+    &lt;script language=&quot;JavaScript&quot; src=&quot;ss.js&quot;&gt;&lt;/script&gt;
+    &lt;script language=&quot;JavaScript&quot;&gt;
+      function setItem() {
+        var itemStr = getCookie(&apos;item&apos;);
+        if(itemStr != null) {
+          var item = parseInt(itemStr);
+          document.getElementById(&apos;itemName&apos;).innerHTML=items[item].name;
+        }
+      }
+    &lt;/script&gt;
+  &lt;/head&gt;
+  &lt;body onload=&quot;setItem();&quot;&gt;
+    &lt;h2&gt;Badboy&apos;s Surf&apos;n Stuff Shop - Thankyou!&lt;/h2&gt;
+    &lt;br/&gt;
+    &lt;p&gt;Thanks for buying from Badboy&apos;s Surf&apos;n Stuff!&lt;/p&gt;
+    &lt;br/&gt;
+    &lt;p&gt;Enjoy your &lt;span id=&quot;itemName&quot;&gt;&amp;nbsp;&lt;/span&gt;!&lt;/p&gt;
+    &lt;br/&gt;
+    &lt;a style=&quot;margin-left: 80px;&quot; href=&quot;surfnstuff.html&quot;&gt;return to Surf&apos;n Stuff home page&lt;/a&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+</content>
+														<totalSize>791</totalSize>
+														<timeStamp>2017-11-19 02:19:17</timeStamp>
+														<logContent/>
+													</Response>
+												</ChildItems>
+												<Summary v='3'>
+													<maxResponseTime>0</maxResponseTime>
+													<averageResponseTime>0</averageResponseTime>
+												</Summary>
+											</ResponsesItem>
+											<Parameter v='4'>
+												<ver>14</ver>
+												<id>26</id>
+												<name>item</name>
+												<value/>
+												<sendEquals>true</sendEquals>
+												<method>1</method>
+											</Parameter>
+										</ChildItems>
+										<timeoutEnabled>false</timeoutEnabled>
+										<Object>null</Object>
+										<targetWindow/>
+										<itemName/>
+										<documentation/>
+										<waitForPageToLoad>false</waitForPageToLoad>
+										<sourceLocation/>
+										<recordResponses>true</recordResponses>
+										<quiescenceTimeMs>500</quiescenceTimeMs>
+										<disabled>false</disabled>
+										<ignoreErrors>false</ignoreErrors>
+										<errorFilter/>
+										<Object>null</Object>
+										<host/>
+										<path>C:/Users/Infinity/Desktop/Badboy/html/tutorial/ssthankyou.html?item=</path>
+										<protocol>file</protocol>
+										<resource/>
+										<targetFrame>testsite</targetFrame>
+										<isActive>1</isActive>
+										<label/>
+										<headers>Referer: file:///C:/Users/Infinity/Desktop/Badboy/html/tutorial/ssbuy.html?item=1
+</headers>
+										<multipartBoundary/>
+										<Object>null</Object>
+										<lenientSubrequestCount>false</lenientSubrequestCount>
+										<formCharset>windows-1252</formCharset>
+										<method>1</method>
+										<waitForSubRequests>false</waitForSubRequests>
+									</Request>
+								</ChildItems>
+								<timeoutEnabled>false</timeoutEnabled>
+								<Object>null</Object>
+								<targetWindow/>
+								<itemName/>
+								<documentation/>
+								<waitForPageToLoad>false</waitForPageToLoad>
+								<sourceLocation/>
+								<recordResponses>true</recordResponses>
+								<quiescenceTimeMs>500</quiescenceTimeMs>
+								<disabled>false</disabled>
+								<ignoreErrors>false</ignoreErrors>
+								<errorFilter/>
+								<Object>null</Object>
+								<name>Step 1</name>
+								<repetitions>1</repetitions>
+								<repeatType>1</repeatType>
+								<repeatVariable/>
+								<incrementAutomatically>true</incrementAutomatically>
+								<incrementAll>true</incrementAll>
+								<expanded>1</expanded>
+							</Step>
+						</ChildItems>
+						<timeoutEnabled>false</timeoutEnabled>
+						<Object>null</Object>
+						<targetWindow/>
+						<itemName/>
+						<documentation/>
+						<waitForPageToLoad>false</waitForPageToLoad>
+						<sourceLocation/>
+						<recordResponses>true</recordResponses>
+						<quiescenceTimeMs>500</quiescenceTimeMs>
+						<disabled>false</disabled>
+						<ignoreErrors>false</ignoreErrors>
+						<errorFilter/>
+						<Object>null</Object>
+						<title>Test 1</title>
+						<template/>
+						<expanded>1</expanded>
+					</TestItem>
+				</ChildItems>
+				<timeoutEnabled>false</timeoutEnabled>
+				<Object>null</Object>
+				<targetWindow/>
+				<itemName>Test Suite 1</itemName>
+				<documentation/>
+				<waitForPageToLoad>false</waitForPageToLoad>
+				<sourceLocation/>
+				<recordResponses>true</recordResponses>
+				<quiescenceTimeMs>500</quiescenceTimeMs>
+				<disabled>false</disabled>
+				<ignoreErrors>false</ignoreErrors>
+				<errorFilter/>
+				<Object>null</Object>
+				<expanded>1</expanded>
+			</SuiteItem>
+		</ChildItems>
+		<defaultHeaders/>
+		<itemName>Stephen Tutorial.bx</itemName>
+		<documentation/>
+	</Script>
+</WebScript>
