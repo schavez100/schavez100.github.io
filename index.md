@@ -33,5 +33,6 @@
     <p><a href="./Game_Critique_6">Game Critique 6</a></p>
     <p><a href="./Badboy_TestingSoftware">Badboy Testing Software</a></p>
     <p><a href="./Game_Critique_7">Game Critique 7</a></p>
+    <p><a href="./Game_Critique_8">Game Critique 8</a></p>
     </body>
 </html>
