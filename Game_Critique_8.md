@@ -24,5 +24,6 @@ Single and Multiplayer
 ### Controls
 WASD are movements, Space bar is jump, Left click is primary attack, Right click is secondary attack for certian weapons, Shift and Control are crouch, ZXC are character communications keys, E is to call for medic and can also be found in the character comms. keys, Alt locks the players movement to left and right, V is for voice communications, Y is for global chat, U is for team chat, , is to change class, . is to change teams, M is to open character loadout, N is to open backpack, G is to taunt, F is to inspect.
 # Bugs
-talk about dragon's fury weapon shooting through spawn gate before round starts
+Currently a bug exists were a Pyro using the Dragon's Fury can shoot and damage an enemy through the spawn gates before the round starts. Normally on maps where a team is defending, the attacking team's spawn gates block all damage due to being closed and the round not starting. However, defending players near the gate can be hit with the dragon's fury's projectile.
 # Final Thoughts
+The game is still good to play. It is not pay to win and it is a free to play game that any one can pick up.
